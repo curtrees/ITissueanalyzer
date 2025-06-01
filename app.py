@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
-st.title("IT Access Issues Analyzer")
+st.title("IT Access Issues Analyzer2")
 
 uploaded_file = st.file_uploader(
     "Upload a CSV file with columns: Job Role, Issue Description, Issue Report Date, Issue Resolved Date, Program",
