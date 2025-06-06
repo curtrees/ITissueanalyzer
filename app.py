@@ -15,10 +15,18 @@ if uploaded_file is not None:
     if filename.endswith(".csv"):
         df = pd.read_csv(uploaded_file)
     elif filename.endswith((".xlsx", ".xls")):
-        df = pd.read_excel(uploaded_file)
+        try:
+            df = pd.read_excel(uploaded_file)
+        except ImportError:
+            st.error("The 'openpyxl' package is required to read Excel files. Please install it with 'pip install openpyxl'.")
+            st.stop()
+        except Exception as e:
+            st.error(f"An error occurred while reading the Excel file: {e}")
+            st.stop()
     else:
         st.error("Unsupported file type. Please upload a CSV or Excel file.")
         st.stop()
+# ...existing code continues...
 # ...existing code continues...
 
     # Parse dates and calculate resolution time
