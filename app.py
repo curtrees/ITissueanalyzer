@@ -6,12 +6,20 @@ import plotly.express as px
 st.title("IT Access Issues Analyzer2")
 
 uploaded_file = st.file_uploader(
-    "Upload a CSV file with columns: Job Role, Issue Description, Issue Report Date, Issue Resolved Date, Program",
-    type="csv"
+    "Upload a CSV or Excel file with columns: Job Role, Issue Description, Issue Report Date, Issue Resolved Date, Program",
+    type=["csv", "xlsx", "xls"]
 )
 
 if uploaded_file is not None:
-    df = pd.read_csv(uploaded_file)
+    filename = uploaded_file.name.lower()
+    if filename.endswith(".csv"):
+        df = pd.read_csv(uploaded_file)
+    elif filename.endswith((".xlsx", ".xls")):
+        df = pd.read_excel(uploaded_file)
+    else:
+        st.error("Unsupported file type. Please upload a CSV or Excel file.")
+        st.stop()
+# ...existing code continues...
 
     # Parse dates and calculate resolution time
     df["Issue Report Date"] = pd.to_datetime(df["Issue Report Date"], errors="coerce")
