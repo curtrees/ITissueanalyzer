@@ -1,0 +1,84 @@
+Role,Issue Description,Issue Report Date,Issue Resolved Date,Program
+Software Engineer,No access to Mednet database; VPN issues,1/12/2024,1/18/2024,WTC
+Business Analyst,Softphone not set up,1/20/2024,1/22/2024,VA CCN
+Data Scientist,,,,VBA
+HR Coordinator,Missing adapter cable,2/5/2024,2/7/2024,WTC
+IT Support,No admin privileges; VPN issues,2/18/2024,2/22/2024,VBA
+Project Manager,,,,VA CCN
+Systems Administrator,Softphone not set up; No access to documentation portal,3/2/2024,3/7/2024,VBA
+Technical Writer,No access to Mednet database,3/18/2024,3/21/2024,VBA
+Cybersecurity Analyst,,,,WTC
+Software Engineer,No access to internal reporting system,4/2/2024,4/6/2024,VBA
+Business Analyst,,,,VS
+Data Scientist,Softphone not set up; VPN issues,4/15/2024,4/20/2024,GNAL
+HR Coordinator,Missing login credentials,5/5/2024,5/8/2024,GNAL
+IT Support,No access to Mednet database,5/20/2024,5/23/2024,WTC
+Project Manager,Softphone not set up,6/12/2024,6/16/2024,VBA
+Systems Administrator,,,,WTC
+Technical Writer,VPN issues; No access to Mednet database,7/8/2024,7/13/2024,GNAL
+Cybersecurity Analyst,,,,VA CCN
+Software Engineer,Missing adapter cable,7/22/2024,7/25/2024,VA CCN
+Business Analyst,No admin privileges,8/5/2024,8/9/2024,GNAL
+Data Scientist,,,,VS
+HR Coordinator,Softphone not set up,8/18/2024,8/22/2024,WTC
+IT Support,,,,VS
+Project Manager,No access to internal reporting system,9/1/2024,9/4/2024,WTC
+Systems Administrator,VPN issues,9/15/2024,9/18/2024,WTC
+Technical Writer,Softphone not set up,10/2/2024,10/6/2024,GNAL
+Cybersecurity Analyst,No access to Mednet database; Missing adapter cable,10/18/2024,10/22/2024,VS
+Software Engineer,,,,GNAL
+Business Analyst,Missing login credentials,11/5/2024,11/7/2024,VBA
+Data Scientist,Softphone not set up; VPN issues,11/20/2024,11/24/2024,VA CCN
+HR Coordinator,,,,WTC
+IT Support,No access to internal reporting system,12/3/2024,12/7/2024,VS
+Project Manager,Softphone not set up; Missing adapter cable,12/18/2024,12/22/2024,GNAL
+IT Support,Two-factor authentication failure; Softphone not set up,3/8/2024,3/13/2024,VA CCN
+HR Coordinator,VPN issues,1/31/2024,2/7/2024,VA CCN
+Customer Service Rep,,,,VS
+HR Coordinator,Two-factor authentication failure; Software installation delayed,2/28/2024,2/29/2024,VA CCN
+Business Analyst,,,,VBA
+Operations Manager,Slow internet; Two-factor authentication failure; Laptop not delivered,4/6/2024,4/13/2024,VBA
+Finance Associate,VPN issues; Softphone not set up,4/26/2024,4/30/2024,VS
+HR Coordinator,Keyboard not working; Missing adapter cable,3/15/2024,3/17/2024,VA CCN
+Software Engineer,,,,GNAL
+Data Scientist,Slow internet; No access to Mednet database,3/11/2024,3/13/2024,GNAL
+Data Scientist,Two-factor authentication failure,1/5/2024,1/7/2024,WTC
+HR Coordinator,,,,VA CCN
+Business Analyst,Software installation delayed,4/20/2024,4/27/2024,WTC
+Data Scientist,No admin privileges,2/9/2024,2/12/2024,VBA
+IT Support,No access to Mednet database; No access to email,3/3/2024,3/6/2024,VA CCN
+Customer Service Rep,Laptop not delivered,1/5/2024,1/9/2024,VBA
+Operations Manager,Slow internet; No access to Mednet database,3/16/2024,3/21/2024,WTC
+Operations Manager,No access to Mednet database; Keyboard not working,2/29/2024,3/7/2024,GNAL
+Data Scientist,Two-factor authentication failure; No access to email,1/9/2024,1/11/2024,GNAL
+IT Support,Softphone not set up; Missing adapter cable,2/24/2024,3/1/2024,GNAL
+Operations Manager,No admin privileges; VPN issues,3/15/2024,3/18/2024,GNAL
+Data Scientist,Password reset needed,1/11/2024,1/16/2024,WTC
+Data Scientist,Laptop not delivered,1/10/2024,1/14/2024,VA CCN
+Business Analyst,,,,VS
+Customer Service Rep,Access to SharePoint denied; Softphone not set up,3/2/2024,3/7/2024,GNAL
+Software Engineer,VPN issues,4/30/2024,5/2/2024,VBA
+Customer Service Rep,Keyboard not working; Software installation delayed; Missing adapter cable,4/29/2024,5/2/2024,VA CCN
+Customer Service Rep,Software installation delayed; Softphone not set up,3/16/2024,3/17/2024,VS
+Operations Manager,,,,VA CCN
+Business Analyst,,,,VS
+IT Support,,,,VBA
+Finance Associate,,,,VS
+Customer Service Rep,Two-factor authentication failure; Keyboard not working,1/23/2024,1/25/2024,VBA
+Operations Manager,Keyboard not working,2/6/2024,2/11/2024,VS
+Software Engineer,Software installation delayed; Password reset needed,4/23/2024,4/30/2024,GNAL
+Customer Service Rep,VPN issues,4/11/2024,4/15/2024,VA CCN
+Data Scientist,,,,GNAL
+Data Scientist,,,,VA CCN
+IT Support,Password reset needed; Laptop not delivered,4/12/2024,4/16/2024,VA CCN
+Customer Service Rep,Slow internet,4/6/2024,4/13/2024,VS
+Operations Manager,,,,WTC
+Data Scientist,Softphone not set up; No access to email,1/25/2024,2/1/2024,VA CCN
+Marketing Specialist,No admin privileges; Access to SharePoint denied; Slow internet,4/19/2024,4/22/2024,GNAL
+Business Analyst,,,,WTC
+Software Engineer,,,,VBA
+IT Support,Keyboard not working; Missing adapter cable; No admin privileges,4/19/2024,4/23/2024,GNAL
+HR Coordinator,VPN issues,4/6/2024,4/8/2024,VA CCN
+Business Analyst,Software installation delayed; Password reset needed; Keyboard not working,3/18/2024,3/23/2024,WTC
+Operations Manager,,,,VBA
+IT Support,Software installation delayed,3/18/2024,3/24/2024,GNAL
